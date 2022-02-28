@@ -70,7 +70,7 @@ function initializeVisited(visited) {
 }
 
 /**
- * @param {Queue} queue
+ * @param {Queue Node} queue
  */
 function initializeQueue(queue) {
     for (let i = 0; i < this.rows; i++) {
